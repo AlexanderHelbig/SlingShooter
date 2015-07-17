@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 598130a5344b01f44ac8434adb4fda02
+timeCreated: 1437069915
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm_left
+    100002: Arm_right
+    100004: Ellbow_left
+    100006: Ellbow_right
+    100008: Foot_left
+    100010: Foot_right
+    100012: //RootNode
+    100014: Head
+    100016: HeadEnd
+    100018: Hip_left
+    100020: Hip_right
+    100022: joint8
+    100024: joint8 1
+    100026: Knee_left
+    100028: Knee_right
+    100030: MiddleSpine
+    100032: Neck
+    100034: pCylinder1
+    100036: pCylinder10
+    100038: pCylinder11
+    100040: pCylinder12
+    100042: pCylinder13
+    100044: pCylinder14
+    100046: pCylinder15
+    100048: pCylinder16
+    100050: pCylinder17
+    100052: pCylinder2
+    100054: pCylinder3
+    100056: pCylinder4
+    100058: pCylinder5
+    100060: pCylinder7
+    100062: pCylinder8
+    100064: pCylinder9
+    100066: Pelvis
+    100068: Tail
+    400000: Arm_left
+    400002: Arm_right
+    400004: Ellbow_left
+    400006: Ellbow_right
+    400008: Foot_left
+    400010: Foot_right
+    400012: //RootNode
+    400014: Head
+    400016: HeadEnd
+    400018: Hip_left
+    400020: Hip_right
+    400022: joint8
+    400024: joint8 1
+    400026: Knee_left
+    400028: Knee_right
+    400030: MiddleSpine
+    400032: Neck
+    400034: pCylinder1
+    400036: pCylinder10
+    400038: pCylinder11
+    400040: pCylinder12
+    400042: pCylinder13
+    400044: pCylinder14
+    400046: pCylinder15
+    400048: pCylinder16
+    400050: pCylinder17
+    400052: pCylinder2
+    400054: pCylinder3
+    400056: pCylinder4
+    400058: pCylinder5
+    400060: pCylinder7
+    400062: pCylinder8
+    400064: pCylinder9
+    400066: Pelvis
+    400068: Tail
+    4300000: pCylinder1
+    4300002: pCylinder2
+    4300004: pCylinder10
+    4300006: pCylinder11
+    4300008: pCylinder12
+    4300010: pCylinder13
+    4300012: pCylinder14
+    4300014: pCylinder3
+    4300016: pCylinder16
+    4300018: pCylinder5
+    4300020: pCylinder17
+    4300022: pCylinder4
+    4300024: pCylinder15
+    4300026: pCylinder7
+    4300028: pCylinder9
+    4300030: pCylinder8
+    9500000: //RootNode
+    13700000: pCylinder1
+    13700002: pCylinder10
+    13700004: pCylinder11
+    13700006: pCylinder12
+    13700008: pCylinder13
+    13700010: pCylinder14
+    13700012: pCylinder15
+    13700014: pCylinder16
+    13700016: pCylinder17
+    13700018: pCylinder2
+    13700020: pCylinder3
+    13700022: pCylinder4
+    13700024: pCylinder5
+    13700026: pCylinder7
+    13700028: pCylinder8
+    13700030: pCylinder9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
